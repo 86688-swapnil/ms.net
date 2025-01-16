@@ -1,0 +1,2 @@
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache

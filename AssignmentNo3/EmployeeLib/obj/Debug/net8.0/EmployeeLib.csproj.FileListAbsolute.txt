@@ -1,0 +1,11 @@
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\EmployeeLib\bin\Debug\net8.0\EmployeeLib.deps.json
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\EmployeeLib\bin\Debug\net8.0\EmployeeLib.dll
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\EmployeeLib\bin\Debug\net8.0\EmployeeLib.pdb
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\EmployeeLib\obj\Debug\net8.0\EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\EmployeeLib\obj\Debug\net8.0\EmployeeLib.AssemblyInfoInputs.cache
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\EmployeeLib\obj\Debug\net8.0\EmployeeLib.AssemblyInfo.cs
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\EmployeeLib\obj\Debug\net8.0\EmployeeLib.csproj.CoreCompileInputs.cache
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\EmployeeLib\obj\Debug\net8.0\EmployeeLib.dll
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\EmployeeLib\obj\Debug\net8.0\refint\EmployeeLib.dll
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\EmployeeLib\obj\Debug\net8.0\EmployeeLib.pdb
+E:\MS.NETProgram\AssignmentNo3_86694_Neha_Koshti\EmployeeLib\obj\Debug\net8.0\ref\EmployeeLib.dll
