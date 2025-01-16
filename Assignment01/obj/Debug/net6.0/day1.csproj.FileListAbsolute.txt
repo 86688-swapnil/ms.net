@@ -1,0 +1,14 @@
+D:\dotnet\day1\bin\Debug\net6.0\day1.exe
+D:\dotnet\day1\bin\Debug\net6.0\day1.deps.json
+D:\dotnet\day1\bin\Debug\net6.0\day1.runtimeconfig.json
+D:\dotnet\day1\bin\Debug\net6.0\day1.dll
+D:\dotnet\day1\bin\Debug\net6.0\day1.pdb
+D:\dotnet\day1\obj\Debug\net6.0\day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\day1\obj\Debug\net6.0\day1.AssemblyInfoInputs.cache
+D:\dotnet\day1\obj\Debug\net6.0\day1.AssemblyInfo.cs
+D:\dotnet\day1\obj\Debug\net6.0\day1.csproj.CoreCompileInputs.cache
+D:\dotnet\day1\obj\Debug\net6.0\day1.dll
+D:\dotnet\day1\obj\Debug\net6.0\refint\day1.dll
+D:\dotnet\day1\obj\Debug\net6.0\day1.pdb
+D:\dotnet\day1\obj\Debug\net6.0\day1.genruntimeconfig.cache
+D:\dotnet\day1\obj\Debug\net6.0\ref\day1.dll

@@ -1,0 +1,14 @@
+D:\dotnet\day1\MenuDriven\bin\Debug\net8.0\MenuDriven.exe
+D:\dotnet\day1\MenuDriven\bin\Debug\net8.0\MenuDriven.deps.json
+D:\dotnet\day1\MenuDriven\bin\Debug\net8.0\MenuDriven.runtimeconfig.json
+D:\dotnet\day1\MenuDriven\bin\Debug\net8.0\MenuDriven.dll
+D:\dotnet\day1\MenuDriven\bin\Debug\net8.0\MenuDriven.pdb
+D:\dotnet\day1\MenuDriven\obj\Debug\net8.0\MenuDriven.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\day1\MenuDriven\obj\Debug\net8.0\MenuDriven.AssemblyInfoInputs.cache
+D:\dotnet\day1\MenuDriven\obj\Debug\net8.0\MenuDriven.AssemblyInfo.cs
+D:\dotnet\day1\MenuDriven\obj\Debug\net8.0\MenuDriven.csproj.CoreCompileInputs.cache
+D:\dotnet\day1\MenuDriven\obj\Debug\net8.0\MenuDriven.dll
+D:\dotnet\day1\MenuDriven\obj\Debug\net8.0\refint\MenuDriven.dll
+D:\dotnet\day1\MenuDriven\obj\Debug\net8.0\MenuDriven.pdb
+D:\dotnet\day1\MenuDriven\obj\Debug\net8.0\MenuDriven.genruntimeconfig.cache
+D:\dotnet\day1\MenuDriven\obj\Debug\net8.0\ref\MenuDriven.dll
